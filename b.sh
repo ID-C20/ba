@@ -21,13 +21,13 @@ echo "
 echo \e[1;92mAuthor : ID Jekky"
 echo \e[1;92mYoutobe : ID Jekky"
 
-echo \e[1;92m[1]Hack Facebook
-echo \e[1;92m[2]wifite
-echo \e[1;92m[3]wpseku
-echo \e[1;92m[4]RedHack
-echo \e[1;92m[5]Lazymux
-echo  \e[1;92m[0]Exit
-read -p $'\n\e[1;92m[Cyber] ID Jekky :
+echo \e[1;92m[1]Hack Facebook"
+echo \e[1;92m[2]wifite"
+echo \e[1;92m[3]wpseku"
+echo \e[1;92m[4]RedHack"
+echo \e[1;92m[5]Lazymux"
+echo  \e[1;92m[0]Exit"
+read -p $'\n\e[1;92m[Cyber] ID Jekky :"
 
 if [ $gays = "1" ];
 then
