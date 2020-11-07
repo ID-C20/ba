@@ -18,8 +18,8 @@ echo "
 ║╚════════════════════╝╔╝
 ╚══════════════════════╝
 "
-echo \e[1;92mAuthor : ID Jekky"
-echo \e[1;92mYoutobe : ID Jekky"
+echo Author : ID Jekky"
+echo Youtobe : ID Jekky"
 echo "
 echo  [1]Hack Facebook"
 echo  [2]wifite"
