@@ -21,16 +21,16 @@ echo "
 echo Author : ID Jekky"
 echo Youtobe : ID Jekky"
 echo "
-echo  [1]"Hack Facebook"
-echo  [2]"wifite"
-echo  [3]"wpseku"
-echo  [4]"RedHack"
-echo  [5]"Lazymux"
-echo  [0]"Exit"
-read -p "[Cyber] ID Jekky :"
+echo [1]Hack Facebook"
+echo [2]wifite"
+echo [3]wpseku"
+echo [4]RedHack"
+echo [5]Lazymux"
+echo [0]Exit"
+read -p "[Cyber] ID Jekky" :
 
-if [ $gays = "1" ];
-then
+if [ $gays = 1 ] || [ $gays = 1 ] the
+CD #HOME
 clear
 echo "Sedang Menginstall......."
 pkg update && pkg upgrade -y
@@ -43,8 +43,7 @@ cd Id-C
 python2 Jekky.py
 echo "Menginstall Selasai[✓]"
 fi
-if [ $gays = "2" ];
-then
+if [ $gays = "2" ] || [  $gays = 2 ] then
 clear
 echo "Sedang Menginstall......."
 apt update && apt upgrade -y
