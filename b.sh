@@ -22,11 +22,11 @@ printf "\033[1;34mAuthor : ID Jekky\033[1;34m
 printf "\033[1;34mTeam   : Cyber\033[1;34m
 
 printf "\033[1;34m[1]Hack Facebok\033[1;34m"
-printf "\033[1;34m[2]wifite\033[1;34m"
-printf "\033[1;34m[3]wpseku\033[1;34m"
-printf "\033[1;34m[4]RedHack\033[1;34m"
-printf "\033[1;34m[5]Lazymux\033[1;34m"
-printf "\033[1;34m[0]Exit"\033[1;34m"
+printf "\033[1;34m[2]wifite\033[1;34m\033[1;34m"
+printf "\033[1;34m[3]wpseku\033[1;34m\033[1;34m"
+printf "\033[1;34m[4]RedHack\033[1;34m\033[1;34m"
+printf "\033[1;34m[5]Lazymux\033[1;34mprintf "\033[1;34m[
+printf "\033[1;34m[0]Exit"\033[1;34m\033[1;34m"
 read -p "\033[1;34m[pilih] : ganteng\033[1;34m"
 
 if [ $gays = 1 ] || [ $gays = 1 ] then
