@@ -25,7 +25,7 @@ printf "\033[1;34m[1]Hack Facebok\033[1;34m"
 printf "\033[1;34m[2]wifite\033[1;34m"
 printf "\033[1;34m[3]wpseku\033[1;34m"
 printf "\033[1;34m[4]RedHack\033[1;34m"
-printf "\033[1;34m[5]Lazymux\033[1;34m[
+printf "\033[1;34m[5]Lazymux\033[1;34m"
 printf "\033[1;34m[0]Exit\033[1;34m"
 read -p "\033[1;34m[pilih] : ganteng\033[1;34m"
 
