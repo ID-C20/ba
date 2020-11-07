@@ -12,16 +12,13 @@ echo
 echo "
 ╔══════════════════════╗  
 ║╔════════════════════╗╚╗
-║║██░░░░░░░░░░░░░░░░░░╚╗╚╗
-║║██░░░░░Battery Low ░░░░░ ─║║║
+║║██░░░░░░░░░░░░░░░░░░╚╗╚╗.       "Author : ID Jekky "
+║║██░░░░░Battery Low ░░░░░ ─║║║    "Team : Cyber"
 ║║██░░░░░░░░░░░░░░░░░░╔╝╔╝
 ║╚════════════════════╝╔╝
 ╚══════════════════════╝
-"
-"Author : ID Jekky"
-"Youtobe : ID Jekky"
-
-echo "
+sleep 1
+echo 
 echo "[1]Hack Facebook"
 echo "[2]wifite"
 echo "[3]wpseku"
@@ -44,8 +41,10 @@ cd Id-C
 python2 Jekky.py
 echo "Menginstall Selasai[✓]"
 fi
-if [ $gays = "2" ] || [  $gays = 2 ] then
+if [ $gays = 2 ] || [  $gays = 2 ] then
 clear
+CD 
+cd #HOME
 echo "Sedang Menginstall......."
 apt update && apt upgrade -y
 apt install git -y
