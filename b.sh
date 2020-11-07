@@ -17,6 +17,7 @@ echo "
 ║║██░░░░░░░░░░░░░░░░░░╔╝╔╝
 ║╚════════════════════╝╔╝
 ╚══════════════════════╝
+"
 sleep 1
 echo 
 echo "[1]Hack Facebook"
@@ -25,7 +26,7 @@ echo "[3]wpseku"
 echo "[4]RedHack"
 echo "[5]Lazymux"
 echo "[0]Exit"
-read -p "[Cyber] ID Jekky" :
+read -p "ID Jekky" :
 
 if [ $gays = 1 ] || [ $gays = 1 ] the
 clear
