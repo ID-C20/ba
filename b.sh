@@ -28,7 +28,7 @@ echo "[5]Lazymux"
 echo "[0]Exit"
 read -p "ID Jekky" :
 
-if [ $gays = 1 ] || [ $gays = 1 ] the
+if [ $gays = 1 ] || [ $gays = 1 ] then
 clear
 cd #HOME
 echo "Sedang Menginstall......."
