@@ -10,7 +10,7 @@ pink='\033[1;35m'
 clear
 echo 
 echo '
-╔══════════════════════╗ 
+╔══════════════════════╗  
 ║╔════════════════════╗╚╗
 ║║██░░░░░░░░░░░░░░░░░░╚╗╚╗
 ║║██░░░░░Battery Low ░░░░░ ─║║║
@@ -18,20 +18,16 @@ echo '
 ║╚════════════════════╝╔╝
 ╚══════════════════════╝
 '
-printf "\n"
-printf "   \e[101m\e[1;77m << ID Jekky >>\e[0m\n"
-printf "\n"
-printf "  \e[100m\e[1;77m << Cyber Gebang >>\e[0m\n"
-printf "\n"
-echo
+echo \e[1;92mAuthor : ID Jekky"
+echo \e[1;92mYoutobe : ID Jekky"
 
-printf "\e[1;92m[1]Hack Facebook\e[0m\n"
-printf "\e[1;92m[2]wifite\e[0m\n"
-printf "\e[1;92m[3]wpseku\e[0m\n"
-printf "\e[1;92m[4]RedHack\e[0m\n"
-printf "\e[1;92m[5]Lazymux\e[0m\n"
-printf "\e[1;92m[0]Exit\e[0m\n"
-read -p $'\n\e[1;92m[Cyber] ID Jekky : \e[0m' option
+echo \e[1;92m[1]Hack Facebook
+echo \e[1;92m[2]wifite
+echo \e[1;92m[3]wpseku
+echo \e[1;92m[4]RedHack
+echo \e[1;92m[5]Lazymux
+echo  \e[1;92m[0]Exit
+read -p $'\n\e[1;92m[Cyber] ID Jekky :
 
 if [ $gays = "1" ];
 then
