@@ -31,7 +31,7 @@ echo "[3]wpseku"
 echo "[4]RedHack"
 echo "[5]Lazymux"
 echo "[0]Exit"
-read -p "ID Jekky" :
+read -p "[pilih] : ganteng"
 
 if [ $gays = 1 ] || [ $gays = 1 ] then
 clear
