@@ -18,8 +18,9 @@ echo "
 ║╚════════════════════╝╔╝
 ╚══════════════════════╝
 "
-echo Author : ID Jekky"
-echo Youtobe : ID Jekky"
+"Author : ID Jekky"
+"Youtobe : ID Jekky"
+
 echo "
 echo [1]Hack Facebook"
 echo [2]wifite"
@@ -30,8 +31,8 @@ echo [0]Exit"
 read -p "[Cyber] ID Jekky" :
 
 if [ $gays = 1 ] || [ $gays = 1 ] the
-CD #HOME
 clear
+cd #HOME
 echo "Sedang Menginstall......."
 pkg update && pkg upgrade -y
 pkg install git -y
